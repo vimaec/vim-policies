@@ -12,7 +12,7 @@
 
 - User access reviews [source](./access_control_policy.md#user-access-reviews)
 
-- Any high-risk third-party services (if applicable) [source](./third_party_management_policy.md#third-party-service-delivery-management)
+- Third-party services [source](./third_party_management_policy.md#third-party-service-delivery-management)
 
 ### Annual 🍾
 
